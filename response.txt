@@ -1,0 +1,1 @@
+{"data":"{franchise_id: 1, products: [{id: 1, quantity: 4, extras: [2], modifier: [{id: 2, items: [4]}, {id: 1, items: [4, 5]}]}, {id: 2, quantity: 6, extras: [1, 2], modifier: [{id: 2, items: [5]}]}, {id: 3, quantity: 2, extras: [3], modifier: []}], is_pickup: true, user_id: 1, sub_total: 30000.0, total: 30000.0}"}
