@@ -1,1 +1,48 @@
 {franchise_id: 1, note: this note, products: [{id: 1, quantity: 1, extras: [], modifier: [{id: 1, items: [5]}]}, {id: 3, quantity: 1, extras: [], modifier: [{id: 1, items: [4]}]}], address: null, is_pickup: true, user_id: 1, sub_total: 800, total: 800}
+
+
+/// 
+
+
+
+{
+   "franchise_id":1,
+   "note":"this note",
+   "products":[
+      {
+         "id":1,
+         "quantity":1,
+         "extras":[
+            
+         ],
+         "modifier":[
+            {
+               "id":1,
+               "items":[
+                  5
+               ]
+            }
+         ]
+      },
+      {
+         "id":3,
+         "quantity":1,
+         "extras":[
+            
+         ],
+         "modifier":[
+            {
+               "id":1,
+               "items":[
+                  4
+               ]
+            }
+         ]
+      }
+   ],
+   "address":null,
+   "is_pickup":true,
+   "user_id":1,
+   "sub_total":800,
+   "total":800
+}
